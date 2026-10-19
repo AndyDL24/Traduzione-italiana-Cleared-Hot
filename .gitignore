@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+dist/
+
+# Script locale per lo ZIP Nexus: non fa parte del download giocatori
+Crea_pacchetto_Nexus.bat
